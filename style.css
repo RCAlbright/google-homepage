@@ -1,0 +1,47 @@
+div.logo {
+    padding-top: 150px; 
+}
+#searchform {
+    text-align: center;
+    width: 484px;
+    height: 46px;
+    padding: 12px 20px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.top-links, footer {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    display: block;
+    padding: 10px;
+}
+li.left-top {
+    float: left;
+    margin-left: 5px;
+}
+li.right-top {
+    float: right;
+    margin-right: 5px;
+}
+footer {
+    position: fixed;
+    right: 0px;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(241, 238, 238);
+    height: 40px;
+}
+li.foot-left {
+    float:left;
+}
+li.foot-right {
+    float:right;
+}
